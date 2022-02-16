@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-journal/static/css/main.b17d2f62.css",
+    "main.js": "/travel-journal/static/js/main.88f0683a.js",
+    "index.html": "/travel-journal/index.html",
+    "main.b17d2f62.css.map": "/travel-journal/static/css/main.b17d2f62.css.map",
+    "main.88f0683a.js.map": "/travel-journal/static/js/main.88f0683a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b17d2f62.css",
+    "static/js/main.88f0683a.js"
+  ]
+}
